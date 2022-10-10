@@ -2,7 +2,7 @@
 
 Instagram: https://www.instagram.com/karticks.studio
 
-**Greetings and welcome to my site! 
+**Greetings and welcome to my site!** 
 
 
 
