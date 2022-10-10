@@ -1,4 +1,4 @@
-[Karticks.Studio](https://kartik4042.github.io/karticks.studio/)
+# [Karticks.Studio](https://kartik4042.github.io/karticks.studio/)
 
 TITLE: 
 Design Portfolio
