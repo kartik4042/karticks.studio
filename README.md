@@ -1,6 +1,7 @@
 # [Karticks.Studio](https://kartik4042.github.io/karticks.studio/)
 
 **Greetings and welcome to my site!** 
+
 I encourage you to explore [my latest collection](https://www.instagram.com/karticks.studio). My art says infinitely more than these words can communicate!
 
 
