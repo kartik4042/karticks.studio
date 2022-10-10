@@ -1,13 +1,11 @@
 
 TITLE: 
-Photo - 100% Fully Responsive Free HTML5 Bootstrap Template
+Design Portfolio
 
 AUTHOR:
-DESIGNED & DEVELOPED by GetTemplates.co
+Kartik Kamepalli
 
-Website: http://gettemplates.co/
-Twitter: http://twitter.com/gettemplatesco
-Facebook: http://facebook.com/gettemplatesco
+Instagram: https://www.instagram.com/karticks.studio
 
 
 CREDITS:
