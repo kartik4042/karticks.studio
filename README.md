@@ -1,12 +1,9 @@
 # [Karticks.Studio](https://kartik4042.github.io/karticks.studio/)
 
-TITLE: 
-Design Portfolio
-
-AUTHOR:
-Kartik Kamepalli
-
 Instagram: https://www.instagram.com/karticks.studio
+
+**Greetings and welcome to my site! 
+
 
 
 CREDITS:
