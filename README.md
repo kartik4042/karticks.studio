@@ -1,4 +1,4 @@
-##karticks.studio.github.io
+#karticks.studio.github.io
 
 TITLE: 
 Design Portfolio
