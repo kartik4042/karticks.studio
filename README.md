@@ -1,14 +1,14 @@
+# [Karticks.Studio](https://kartik4042.github.io/karticks.studio/)
 
-TITLE: 
-Design Portfolio
+**Greetings and welcome to my site!** 
 
-AUTHOR:
-Kartik Kamepalli
+I encourage you to explore [my latest collection](https://www.instagram.com/karticks.studio). My art says infinitely more than these words can communicate!
 
-Instagram: https://www.instagram.com/karticks.studio
+**About:**
 
+_Purely driven by emotion, my artwork is not intended to convey any messages or stories. With my sketches, I intend to create an atmosphere and to convey the feelings and emotions to the viewer that I felt at the time of making them._
 
-CREDITS:
+**Credits:**
 
 Bootstrap
 http://getbootstrap.com/
